@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m Ellie @Eli-ngo, from Paris !
-- 👀 I’m interested in front-end and back-end development | Cryptocurrencies | Blockchain / NFTs | AI
+- 👀 I’m interested in front-end and back-end development | Cryptocurrencies | Blockchain / NFT
 - 🌱 I’m currently learning Javascript, ReactJs, NodeJs
 - 👯 I’m looking forward to collaborating more...
 
