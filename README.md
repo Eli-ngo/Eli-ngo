@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I’m Ellie @Eli-ngo, from Paris !
+👀 I’m interested in front-end and back-end development | Cryptocurrencies | Blockchain / NFTs | AI
+🌱 I’m currently learning Javascript, ReactJs, NodeJs
+👯 I’m looking forward to collaborating more...
+
+📫 Feel free to contact me at : elisab.ngo@gmail.com
