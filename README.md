@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m Ellie @Eli-ngo, from Paris !
-- 👀 I’m interested in Machine Learning | front-end and back-end development | Cryptocurrencies
-- 🌱 I’m currently learning Javascript, Python
+- 👀 I’m interested in Machine Learning | front-end and back-end development
+- 🌱 I’m currently learning NextJS, Python
 - 👯 I’m looking forward to collaborating more...
 
 - 📫 Feel free to contact me at : elisab.ngo@gmail.com
