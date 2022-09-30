@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m Ellie @Eli-ngo, from Paris !
-- 👀 I’m interested in Machine Learning | front-end and back-end development
+- 👀 I’m interested in front-end and back-end development
 - 🌱 I’m currently learning NextJS, Angular and Java
 - 👯 I’m looking forward to collaborating more...
 
