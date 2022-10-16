@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m Ellie @Eli-ngo, from Paris !
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning ReactJS, NextJS, Angular
-- 👯 I’m looking forward to collaborating more...
+- 👀 I’m interested in front-end development and pretty much anything related to creative development as I'm fond of mixing my UX/UI and technical skills together
+- 🌱 I’m looking forward to becoming an expert in Javascript, ReactJS, NextJS, ThreeJS and maybe Angular in the long term
 
 - 📫 Feel free to contact me at : elisab.ngo@gmail.com
